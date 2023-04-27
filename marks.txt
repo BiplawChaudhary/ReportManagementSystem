@@ -1,0 +1,32 @@
+#------------------------------------------
+Name: Sabina
+Roll No: 126
+Faculty: BSc. CSIT 2nd Semester
+	-------------Marksheet------
+S.N.		Subject		Full Marks		Marks Obt.
+1.		OOP		100		80.0
+2.		DS		100		80.0
+3.		Math		100		80.0
+4.		Stat		100		80.0
+5.		MP		100		80.0
+
+  		Total		500		400.0
+Division: First Division
+Percentage: 80.0
+#------------------------------------------ @
+#------------------------------------------
+Name: Sandesh
+Roll No: 128
+Faculty: BSc. CSIT 2nd Semester
+	-------------Marksheet------
+S.N.		Subject		Full Marks		Marks Obt.
+1.		OOP		100		70.0
+2.		DS		100		70.0
+3.		Math		100		70.0
+4.		Stat		100		70.0
+5.		MP		100		70.0
+
+  		Total		500		350.0
+Division: First Division
+Percentage: 70.0
+#------------------------------------------ @
